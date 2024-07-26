@@ -53,10 +53,6 @@ The main functionalities of the system include:-
 
 - Fetching book details by ID: This functionality allows users to get all the details of a book by providing its ID. The endpoint for this function.
 
-
-## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [Deployment](#deployment) for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 You need Eclipse EE edition/Spring Tool Suite, Tomcat Server, Spring Framework MySQL Databasev software to work on this project. Go to google and search,
 
@@ -94,23 +90,4 @@ To install a database management system, you can follow the instructions provide
 
 Remember, always make sure to install and configure these components properly, as they are critical to the success of your project.
 ```
-
-## 🎈 Usage <a name="usage"></a>
-Portal designed to help users keep track of their personal book collection. With the ability to add any book with its details, users can easily manage their library and keep track of their reading progress. Additionally, the portal allows users to modify book details, delete books, and register new books to their collection.
-
-
-
-## 🚀 Deployment <a name = "deployment"></a>
-Screenshots showing working of the project:
-- Home page:
-![screenshot1](Screenshot 2024-07-26 122712.png)
-
-- Available Book List:
-![screenshot2](Screenshot 2024-07-26 122541.png)
-
-- MyBookList
-![screenshot3](Screenshot 2024-07-26 122616.png)
-
-- NewBookRegister
-![screenshot4](Screenshot 2024-07-26 122646.png)
 

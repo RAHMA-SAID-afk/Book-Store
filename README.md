@@ -33,6 +33,8 @@ The Book Store Management system is a Java-based software application developed 
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
+- Screenshot 2024-07-26 122117.png
+
 
 ## 🧐 About <a name = "about"></a>
 The Book Store Management System is a Java-based web application developed using Spring Boot, Thymeleaf, and JPA. The purpose of this system is to manage the storage, tracking, and sale of books in a bookstore. It has been designed for single-user access, with the admin managing the overall application. The system is built using the MVC (Model, View, Controller) pattern, with Spring Boot as the backend, Hibernate as the data access layer, and HTML, CSS, and Bootstrap for the frontend. Postgresql is used as the database for this application.
